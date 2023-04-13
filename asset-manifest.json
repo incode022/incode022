@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.91240d25.css",
+    "main.js": "/static/js/main.bf0737ea.js",
+    "static/media/example2.webp": "/static/media/example2.2a4fbcadc3db117c2c9e.webp",
+    "static/media/example4.webp": "/static/media/example4.548ef94cfc3c65e06b85.webp",
+    "static/media/classroom.webp": "/static/media/classroom.42ca9248f7b2951682e3.webp",
+    "static/media/mekatro.svg": "/static/media/mekatro.c4647fa99cc41c5e915b7156add86f8e.svg",
+    "static/media/elektro.svg": "/static/media/elektro.2482b1fb7e2b0a9d9fad0ebfd3fb2f9f.svg",
+    "static/media/si.svg": "/static/media/si.2e52fe22eb70328a295daae57fc483c3.svg",
+    "static/media/example3.webp": "/static/media/example3.59e79d5f42659b3f1fd4.webp",
+    "static/media/infor.svg": "/static/media/infor.f0df981daae3194300921ef43a5d7d70.svg",
+    "static/media/mesin.svg": "/static/media/mesin.40edd269b317bad3b360773ddf439063.svg",
+    "static/media/circle.svg": "/static/media/circle.a0a93265abd7911f3502cd0276c4a14a.svg",
+    "static/media/industri.svg": "/static/media/industri.c7bffeb794964ee9cd60b24e3b921e9c.svg",
+    "static/media/example1.webp": "/static/media/example1.4110b9561e1bb1c022ed.webp",
+    "index.html": "/index.html",
+    "static/media/menu.svg": "/static/media/menu.8e573e83326dac542d1da62ed5c6a29f.svg",
+    "main.91240d25.css.map": "/static/css/main.91240d25.css.map",
+    "main.bf0737ea.js.map": "/static/js/main.bf0737ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91240d25.css",
+    "static/js/main.bf0737ea.js"
+  ]
+}
